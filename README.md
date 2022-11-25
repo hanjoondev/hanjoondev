@@ -18,16 +18,16 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/11/2022 09:09:22 UTC
+ Last Updated on 25/11/2022 09:09:09 UTC
 <!--END_SECTION:waka-->
