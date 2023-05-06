@@ -17,15 +17,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2023 09:07:58 UTC
+ Last Updated on 06/05/2023 09:07:40 UTC
 <!--END_SECTION:waka-->
