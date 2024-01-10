@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C510%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C510%20hrs%2058%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -17,15 +17,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PowerShell               0 secs              ████████████░░░░░░░░░░░░░   47.84 % 
+JSON                     0 secs              ██████████░░░░░░░░░░░░░░░   40.04 % 
+Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/01/2024 09:08:48 UTC
+ Last Updated on 10/01/2024 09:08:46 UTC
 <!--END_SECTION:waka-->
