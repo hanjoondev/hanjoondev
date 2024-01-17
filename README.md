@@ -17,17 +17,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-PowerShell               0 secs              ████████████░░░░░░░░░░░░░   47.84 % 
-JSON                     0 secs              ██████████░░░░░░░░░░░░░░░   40.04 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/01/2024 09:08:46 UTC
+ Last Updated on 17/01/2024 09:08:59 UTC
 <!--END_SECTION:waka-->
