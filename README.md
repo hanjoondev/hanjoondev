@@ -17,16 +17,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     2 mins              ████████████████████████░   95.60 % 
-Vim Script               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/02/2024 09:09:32 UTC
+ Last Updated on 10/02/2024 09:08:27 UTC
 <!--END_SECTION:waka-->
